@@ -36,7 +36,7 @@ def detect_chessboard(frame):
     return frame
 
 # Open the webcam
-cap = cv2.VideoCapture("5.mp4")
+cap = cv2.VideoCapture("6.mp4")
 
 while True:
     # Capture frame-by-frame
