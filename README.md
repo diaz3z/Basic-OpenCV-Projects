@@ -1,0 +1,3 @@
+# Basic OpenCV Projects
+
+Welcome to my Basic OpenCV Projects repository! This collection showcases my journey in learning computer vision using OpenCV. Here, you'll find a series of simple, single-file projects that demonstrate fundamental OpenCV concepts and techniques. Each project focuses on a specific aspect of image processing or computer vision, providing a hands-on approach to understanding OpenCV's capabilities. Whether you're a fellow learner or just curious about computer vision, feel free to explore these examples. They serve as a practical reference for basic OpenCV operations and can be a starting point for more complex projects. Dive in and enjoy exploring the world of computer vision!
